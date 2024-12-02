@@ -17,11 +17,10 @@ I love working on cybersecurity projects and exploring new network technologies.
 Simple TCP port scanner in bash.
 
 
-
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/binil-babu-p)
-<a href="mailto:13inilb@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" style="height: 20px;">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/your-linkedin-profile) www.linkedin.com/in/binil-babu-p
+
+
+[![Gmail](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white&label=)](mailto:your-email@gmail.com) 13inilb@gmail.com
 
 
