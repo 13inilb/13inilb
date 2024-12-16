@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I'm Binil Babu , a passionate student currently pursuing Btech in ComputerScience.
+I'm Binil Babu P, a passionate student currently pursuing Btech in ComputerScience.
 I love working on cybersecurity projects and exploring new network technologies. 
 
 ## Skills
