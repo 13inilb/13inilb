@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I'm Binil Babu P <br> Passionate about computer science, proficient in Python, Linux enthusiast, with a strong focus on cybersecurity, networking, and cloud technologies
+I'm Binil Babu P <br> Passionate about computer science, Linux enthusiast with a strong focus on cybersecurity, networking, and cloud technologies
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
