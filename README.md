@@ -18,6 +18,6 @@ I'm Binil Babu P <br> Passionate about computer science, Linux enthusiast with a
 [![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/your-linkedin-profile) www.linkedin.com/in/binil-babu-p
 
 
-[![Gmail](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white&label=)](mailto:your-email@gmail.com) 13inilb@gmail.com
+[![Gmail](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white&label=)](mailto:your-email@gmail.com) biniloffcl@gmail.com
 
 
